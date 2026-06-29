@@ -15,9 +15,6 @@ On Day 1, I learned:
 * Data Types
 * Input and Output
 * Comments
-* Basic Operators
-* Type Casting
-* Escape Sequences
 
 ## 📂 Files
 
