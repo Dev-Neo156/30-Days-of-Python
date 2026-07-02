@@ -133,12 +133,90 @@ After completing Day 3, I can:
   * `\"` → Double Quote
   * `\'` → Single Quote
 
+---
+# 📅 Day 4 - Lists and Tuples in Python
+
+Welcome to **Day 4** of my **30 Days of Python** challenge!
+
+Today, I learned about two important Python collection data types—**Lists** and **Tuples**. I explored how to create, access, modify, and manipulate lists, as well as understanding the immutability and methods of tuples.
+
+## 📚 Topics Covered
+
+* Introduction to Lists
+* List Indexing & Slicing
+* List Methods
+* Introduction to Tuples
+* Tuple Methods
+
+## 📂 Files
+
+| File                   | Description                                                                                       |
+| ---------------------- | ------------------------------------------------------------------------------------------------- |
+| `01_list.py`           | Creating and working with Python lists                                                            |
+| `02_index_slicing.py`  | Accessing elements using indexing and slicing                                                     |
+| `03_list_functions.py` | Common list methods like `append()`, `insert()`, `remove()`, `pop()`, `sort()`, `reverse()`, etc. |
+| `04_tuples.py`         | Introduction to tuples and their properties                                                       |
+| `05_tuples_methods.py` | Tuple methods such as `count()` and `index()`                                                     |
+
+## 🎯 Learning Outcomes
+
+After completing Day 4, I can:
+
+* Create and manipulate lists.
+* Access list elements using indexing and slicing.
+* Use built-in list methods efficiently.
+* Understand the difference between mutable and immutable data types.
+* Work with tuples and their methods.
+
+## 💻 Key Concepts
+
+### 📌 Lists
+
+* Mutable sequence
+* Ordered collection
+* Allows duplicate values
+* Can store multiple data types
+
+### 📌 List Methods
+
+* `append()`
+* `extend()`
+* `insert()`
+* `remove()`
+* `pop()`
+* `clear()`
+* `sort()`
+* `reverse()`
+* `copy()`
+
+### 📌 Tuples
+
+* Immutable sequence
+* Ordered collection
+* Faster than lists
+* Allows duplicate values
+
+### 📌 Tuple Methods
+
+* `count()`
+* `index()`
+
+## 🔄 Lists vs Tuples
+
+| Lists                               | Tuples                       |
+| ----------------------------------- | ---------------------------- |
+| Mutable                             | Immutable                    |
+| Uses `[]`                           | Uses `()`                    |
+| Many built-in methods               | Only `count()` and `index()` |
+| Better for frequently changing data | Better for fixed data        |
+
 ## 🚀 Progress
 
 * ✅ Day 1 – Python Basics
 * ✅ Day 2 – Variables, Data Types & Input
 * ✅ Day 3 – Strings
-* ⏳ Day 4 Coming Soon...
+* ✅ Day 4 – Lists & Tuples
+* ⏳ Day 5 Coming Soon...
 
 ---
 
