@@ -60,12 +60,6 @@ After completing Day 2, I can:
 * Convert data from one type to another.
 * Accept and process user input.
 
-## 🚀 Progress
-
-* ✅ Day 1 Completed
-* ✅ Day 2 Completed
-* ⏳ Day 3 Coming Soon...
-
 ---
 
 ## 🎯 Goals
@@ -76,7 +70,77 @@ After completing Day 2, I can:
 * Perform basic arithmetic operations.
 * Write clean and readable Python code.
 
+# 📅 Day 3 - Strings in Python
 
+Welcome to **Day 3** of my **30 Days of Python** challenge!
+
+Today, I explored one of the most fundamental data types in Python—**Strings**. I learned how to create, manipulate, and format strings, along with using built-in string methods and escape sequences.
+
+## 📚 Topics Covered
+
+* Introduction to Strings
+* String Indexing & Slicing
+* Built-in String Functions & Methods
+* Escape Sequences
+
+## 📂 Files
+
+| File                    | Description                                                                                      |
+| ----------------------- | ------------------------------------------------------------------------------------------------ |
+| `01_intro_to_String.py` | Introduction to strings, indexing, and slicing                                                   |
+| `02_str_function.py`    | Common string functions and methods (`len()`, `upper()`, `lower()`, `replace()`, `find()`, etc.) |
+| `03_escape_sequence.py` | Using escape sequences like `\n`, `\t`, `\\`, `\"`, and `\'`                                     |
+
+## 🎯 Learning Outcomes
+
+After completing Day 3, I can:
+
+* Create and manipulate strings in Python.
+* Access characters using indexing and slicing.
+* Use common string methods effectively.
+* Format text output using escape sequences.
+* Understand that strings are immutable in Python.
+
+## 💻 Key Concepts
+
+* **String Indexing**
+
+  * Positive Indexing
+  * Negative Indexing
+
+* **String Slicing**
+
+  * `string[start:end]`
+  * `string[start:end:step]`
+
+* **Useful String Methods**
+
+  * `len()`
+  * `upper()`
+  * `lower()`
+  * `capitalize()`
+  * `title()`
+  * `strip()`
+  * `replace()`
+  * `find()`
+  * `count()`
+
+* **Escape Sequences**
+
+  * `\n` → New Line
+  * `\t` → Tab Space
+  * `\\` → Backslash
+  * `\"` → Double Quote
+  * `\'` → Single Quote
+
+## 🚀 Progress
+
+* ✅ Day 1 – Python Basics
+* ✅ Day 2 – Variables, Data Types & Input
+* ✅ Day 3 – Strings
+* ⏳ Day 4 Coming Soon...
+
+---
 
 ### Challenge
 
