@@ -210,13 +210,109 @@ After completing Day 4, I can:
 | Many built-in methods               | Only `count()` and `index()` |
 | Better for frequently changing data | Better for fixed data        |
 
+---
+
+# 📅 Day 5 - Dictionaries and Sets in Python
+
+Welcome to **Day 5** of my **30 Days of Python** challenge!
+
+Today, I explored two powerful Python data structures—**Dictionaries** and **Sets**. I learned how to store data as key-value pairs, perform fast lookups, work with unique collections of data, and use their built-in methods.
+
+## 📚 Topics Covered
+
+* Introduction to Dictionaries
+* Dictionary Methods
+* Nested Dictionaries
+* Introduction to Sets
+* Set Methods
+* Set Operations
+
+## 📂 Files
+
+| File                       | Description                                                                               |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| `01_dictionary.py`         | Creating and accessing dictionaries                                                       |
+| `02_dictionary_methods.py` | Common dictionary methods like `keys()`, `values()`, `items()`, `get()`, `update()`, etc. |
+| `03_nested_dictionary.py`  | Working with dictionaries inside dictionaries                                             |
+| `04_sets.py`               | Introduction to Python sets and their properties                                          |
+| `05_set_methods.py`        | Common set methods and operations                                                         |
+
+> **Note:** Update the filenames above if they differ from your actual project structure.
+
+## 🎯 Learning Outcomes
+
+After completing Day 5, I can:
+
+* Create and manipulate dictionaries.
+* Access values using keys.
+* Use built-in dictionary methods effectively.
+* Understand nested dictionaries.
+* Create and modify sets.
+* Perform mathematical set operations like union and intersection.
+* Understand the importance of unique elements in sets.
+
+## 💻 Key Concepts
+
+### 📌 Dictionaries
+
+* Store data as **key-value pairs**
+* Mutable and ordered (Python 3.7+)
+* Keys must be unique
+* Values can be of any data type
+
+### 📌 Common Dictionary Methods
+
+* `keys()`
+* `values()`
+* `items()`
+* `get()`
+* `update()`
+* `pop()`
+* `popitem()`
+* `clear()`
+* `copy()`
+
+### 📌 Sets
+
+* Unordered collection
+* Mutable
+* Stores **unique** elements only
+* Does not allow duplicates
+
+### 📌 Common Set Methods
+
+* `add()`
+* `remove()`
+* `discard()`
+* `pop()`
+* `clear()`
+* `copy()`
+
+### 📌 Set Operations
+
+* Union (`|` or `union()`)
+* Intersection (`&` or `intersection()`)
+* Difference (`-` or `difference()`)
+* Symmetric Difference (`^` or `symmetric_difference()`)
+
+## 🔄 Dictionaries vs Sets
+
+| Dictionaries             | Sets                        |
+| ------------------------ | --------------------------- |
+| Store key-value pairs    | Store unique values only    |
+| Access values using keys | No indexing                 |
+| Mutable                  | Mutable                     |
+| Ordered (Python 3.7+)    | Unordered                   |
+| Keys must be unique      | All elements must be unique |
+
 ## 🚀 Progress
 
 * ✅ Day 1 – Python Basics
 * ✅ Day 2 – Variables, Data Types & Input
 * ✅ Day 3 – Strings
 * ✅ Day 4 – Lists & Tuples
-* ⏳ Day 5 Coming Soon...
+* ✅ Day 5 – Dictionaries & Sets
+* ⏳ Day 6 Coming Soon...
 
 ---
 
