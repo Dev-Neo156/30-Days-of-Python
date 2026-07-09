@@ -383,6 +383,82 @@ After completing Day 6, I can:
 | Iterates over sequences                     | Executes until a condition becomes false      |
 | Simpler for fixed iterations                | More flexible for condition-based repetition  |
 
+---
+
+# 📅 Day 7 - Functions & Recursion in Python
+
+Welcome to **Day 7** of my **30 Days of Python** challenge!
+
+Today, I explored one of the most important concepts in programming—**Functions**. I learned how to create reusable blocks of code, work with function parameters, return values, default arguments, and understand the concept of **recursion**, where a function calls itself.
+
+## 📚 Topics Covered
+
+* Introduction to Functions
+* Function Parameters & Arguments
+* Return Statement
+* Default Arguments
+* Recursion
+* Practice Programs
+
+## 📂 Files
+
+| File                      | Description                                                             |
+| ------------------------- | ----------------------------------------------------------------------- |
+| `functions.py`            | Creating and calling user-defined functions                             |
+| `function_with_return.py` | Understanding functions that return values using the `return` statement |
+| `default_argument.py`     | Working with default function arguments                                 |
+| `recursion.py`            | Introduction to recursion with simple examples                          |
+| `quick_quiz.py`           | Practice exercises to reinforce function concepts                       |
+
+## 🎯 Learning Outcomes
+
+After completing Day 7, I can:
+
+* Define and call custom functions.
+* Pass arguments to functions.
+* Return values using the `return` keyword.
+* Use default arguments to make functions more flexible.
+* Understand and implement recursive functions.
+* Write cleaner, reusable, and modular code.
+
+## 💻 Key Concepts
+
+### 📌 Functions
+
+* `def` keyword
+* Function parameters
+* Function arguments
+* Function calls
+* Local variables
+* Code reusability
+
+### 📌 Return Statement
+
+* Returning single values
+* Returning expressions
+* Using returned values in calculations
+
+### 📌 Default Arguments
+
+* Assigning default parameter values
+* Overriding default values with user-provided arguments
+
+### 📌 Recursion
+
+* Base case
+* Recursive case
+* Function calling itself
+* Preventing infinite recursion
+
+## 🔄 Functions vs Recursion
+
+| Functions                             | Recursion                                                    |
+| ------------------------------------- | ------------------------------------------------------------ |
+| Reusable block of code                | A function that calls itself                                 |
+| Improves code modularity              | Solves problems by breaking them into smaller subproblems    |
+| Can take parameters and return values | Requires a base case to stop execution                       |
+| Used for general programming tasks    | Commonly used for tree traversal, factorial, Fibonacci, etc. |
+
 ## 🚀 Progress
 
 * ✅ Day 1 – Python Basics
@@ -391,7 +467,8 @@ After completing Day 6, I can:
 * ✅ Day 4 – Lists & Tuples
 * ✅ Day 5 – Dictionaries & Sets
 * ✅ Day 6 – Conditional Statements & Loops
-* ⏳ Day 7 Coming Soon...
+* ✅ Day 7 – Functions & Recursion
+* ⏳ Day 8 Coming Soon...
 
 ---
 
