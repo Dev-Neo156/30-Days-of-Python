@@ -305,6 +305,84 @@ After completing Day 5, I can:
 | Ordered (Python 3.7+)    | Unordered                   |
 | Keys must be unique      | All elements must be unique |
 
+# 📅 Day 6 - Conditional Statements & Loops in Python
+
+Welcome to **Day 6** of my **30 Days of Python** challenge!
+
+Today, I learned how to control the flow of a Python program using **conditional statements** and **loops**. I also explored how to alter loop execution using the `break` and `continue` statements.
+
+## 📚 Topics Covered
+
+* Conditional Statements (`if`, `elif`, `else`)
+* Nested Conditions
+* `for` Loop
+* `while` Loop
+* `break` Statement
+* `continue` Statement
+
+## 📂 Files
+
+### 📁 `chapter_6_conditional_statement`
+
+| File                | Description                                                      |
+| ------------------- | ---------------------------------------------------------------- |
+| `cond_statement.py` | Understanding `if`, `if-else`, and nested conditional statements |
+| `elif_ladder.py`    | Working with multiple conditions using the `elif` ladder         |
+
+### 📁 `chapter_6_loops`
+
+| File                            | Description                                            |
+| ------------------------------- | ------------------------------------------------------ |
+| `loops.py`                      | Practice with `for` and `while` loops                  |
+| `break_&_continue_statement.py` | Using `break` and `continue` to control loop execution |
+
+## 🎯 Learning Outcomes
+
+After completing Day 6, I can:
+
+* Make decisions using `if`, `elif`, and `else`.
+* Write programs that execute different blocks of code based on conditions.
+* Iterate through sequences using `for` loops.
+* Perform repetitive tasks using `while` loops.
+* Exit loops early using `break`.
+* Skip specific iterations using `continue`.
+
+## 💻 Key Concepts
+
+### 📌 Conditional Statements
+
+* `if`
+* `if...else`
+* `if...elif...else`
+* Nested `if` statements
+
+### 📌 Loops
+
+#### `for` Loop
+
+* Iterating over strings
+* Iterating over lists and tuples
+* Using `range()`
+
+#### `while` Loop
+
+* Looping based on a condition
+* Updating loop variables
+* Avoiding infinite loops
+
+### 📌 Loop Control Statements
+
+* `break` – Terminates the loop immediately.
+* `continue` – Skips the current iteration and moves to the next one.
+
+## 🔄 `for` vs `while`
+
+| `for` Loop                                  | `while` Loop                                  |
+| ------------------------------------------- | --------------------------------------------- |
+| Used when the number of iterations is known | Used when the number of iterations is unknown |
+| Iterates over sequences                     | Executes until a condition becomes false      |
+| Simpler for fixed iterations                | More flexible for condition-based repetition  |
+
 ## 🚀 Progress
 
 * ✅ Day 1 – Python Basics
@@ -312,7 +390,8 @@ After completing Day 5, I can:
 * ✅ Day 3 – Strings
 * ✅ Day 4 – Lists & Tuples
 * ✅ Day 5 – Dictionaries & Sets
-* ⏳ Day 6 Coming Soon...
+* ✅ Day 6 – Conditional Statements & Loops
+* ⏳ Day 7 Coming Soon...
 
 ---
 
