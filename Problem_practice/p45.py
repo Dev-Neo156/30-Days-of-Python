@@ -1,0 +1,7 @@
+# How do you prevent a python print() function to print a new line at the end.
+n = "Aditya"
+x = "Harry"
+
+print(n,end ="" )
+print(x)
+
