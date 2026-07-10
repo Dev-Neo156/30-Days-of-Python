@@ -459,6 +459,76 @@ After completing Day 7, I can:
 | Can take parameters and return values | Requires a base case to stop execution                       |
 | Used for general programming tasks    | Commonly used for tree traversal, factorial, Fibonacci, etc. |
 
+# 📅 Day 8 - Project 1: Snake, Water, Gun Game
+
+Welcome to **Day 8** of my **30 Days of Python** challenge!
+
+Today, I built my first Python mini-project—**Snake, Water, Gun**, a fun game inspired by **Rock, Paper, Scissors**. This project helped me apply the Python concepts learned so far, including conditional statements, functions, loops, and the `random` module.
+
+## 🎮 Project Overview
+
+**Snake, Water, Gun** is a simple command-line game where:
+
+* 🐍 Snake drinks Water → **Snake Wins**
+* 💧 Water drowns Gun → **Water Wins**
+* 🔫 Gun kills Snake → **Gun Wins**
+
+The game can be played:
+
+1. **Player vs Player**
+2. **Player vs Computer**
+
+## 📂 Files
+
+| File                               | Description                                          |
+| ---------------------------------- | ---------------------------------------------------- |
+| `snake water gun.py`               | Player vs Player version of the game                 |
+| `snake water gun with computer.py` | Player vs Computer version using the `random` module |
+
+## 📚 Concepts Applied
+
+* Variables
+* User Input
+* Conditional Statements (`if`, `elif`, `else`)
+* Functions
+* Loops
+* Random Module
+* Basic Game Logic
+
+## 🎯 Learning Outcomes
+
+After completing Day 8, I can:
+
+* Build a complete command-line game.
+* Use functions to organize code.
+* Generate random choices using Python's `random` module.
+* Compare user and computer inputs using conditional logic.
+* Apply Python fundamentals in a real-world mini project.
+
+## ▶️ How to Run
+
+1. Clone the repository.
+2. Navigate to the `project 1` folder.
+3. Run either of the following files:
+
+```bash
+python "snake water gun.py"
+```
+
+or
+
+```bash
+python "snake water gun with computer.py"
+```
+
+## 🚀 Features
+
+* 🎮 Interactive gameplay
+* 🤖 Computer-generated random moves
+* 👥 Two-player mode
+* ✅ Winner determination
+* 🖥️ Beginner-friendly command-line interface
+
 ## 🚀 Progress
 
 * ✅ Day 1 – Python Basics
@@ -468,7 +538,8 @@ After completing Day 7, I can:
 * ✅ Day 5 – Dictionaries & Sets
 * ✅ Day 6 – Conditional Statements & Loops
 * ✅ Day 7 – Functions & Recursion
-* ⏳ Day 8 Coming Soon...
+* ✅ Day 8 – Mini Project: Snake, Water, Gun
+* ⏳ Day 9 Coming Soon...
 
 ---
 
